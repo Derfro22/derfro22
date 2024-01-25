@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Fabrice Wasterlain**, currently undergoing training at [BeCode](https://becode.org/). I'm passionate about backend development and am actively seeking an internship in the field.
+I'm **Fabrice Wasterlain**, currently undergoing comprehensive training in web development at [BeCode](https://becode.org/), located in the city of Brussels. My passion lies particularly in backend development, and I am enthusiastically seeking an internship opportunity in this dynamic field to further enhance my skills and contribute to innovative projects.
 
 ## About Me
 
